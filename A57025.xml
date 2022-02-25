@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to the defence of the bank setting forth the unreasonableness of their slow payments. To which is added, 1. The mischiefs that attend the buying and selling bank-notes. 2. The advantages England will reap by having the unclipt hammer'd mony pass currant into the Exchequer by weight. In a letter to his friend in the countrey. By a true lover of his countrey and the present government.</title>
+            <author>True lover of his countrey and the present government.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57025</idno>
+            <idno type="STC">Wing R1072</idno>
+            <idno type="STC">ESTC R220732</idno>
+            <idno type="EEBO-CITATION">99832124</idno>
+            <idno type="PROQUEST">99832124</idno>
+            <idno type="VID">36595</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36595)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2056:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to the defence of the bank setting forth the unreasonableness of their slow payments. To which is added, 1. The mischiefs that attend the buying and selling bank-notes. 2. The advantages England will reap by having the unclipt hammer'd mony pass currant into the Exchequer by weight. In a letter to his friend in the countrey. By a true lover of his countrey and the present government.</title>
+                  <author>True lover of his countrey and the present government.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Whitlock, and sold by most booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England --  Early works to 1800.</term>
+               <term>Money supply --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36595:1"/>
+            <pb facs="tcp:36595:1" rendition="simple:additions"/>
+            <p>A REPLY TO THE DEFENCE OF THE BANK: Setting forth the Unreaſonable<g ref="char:EOLhyphen"/>neſs of their Slow Payments.</p>
+            <p>To which is added,
+<list>
+                  <item>1. The <hi>Miſchiefs</hi> that attend the Buying and Selling <hi>Bank-Notes.</hi>
+                  </item>
+                  <item>2. The Advantages <hi>England</hi> will reap by having the <hi>
+                        <g ref="char:V">Ʋ</g>nclipt Hammer'd Mony</hi> paſs Currant into the Exchequer by Weight.</item>
+               </list>
+            </p>
+            <p>
+               <hi>In a Letter to his Friend in the Countrey.</hi>
+            </p>
+            <p>By a true Lover of his Countrey and the Preſent Government.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. Whitlock,</hi> and Sold by moſt Bookſellers, 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:36595:2"/>
+            <pb n="3" facs="tcp:36595:2"/>
+            <head>A <hi>Reply</hi> to the <hi>Defence</hi> of the <hi>BANK,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is not without ſome Reluctancy and Scru<g ref="char:EOLhyphen"/>ple that I have undertaken to write the fol<g ref="char:EOLhyphen"/>lowing Diſcourſe againſt the Bank, becauſe many People, I know, are of Opinion, That the Intereſt of the Government is ſo inter<g ref="char:EOLhyphen"/>woven with that of the Bank, that whatever is ſaid againſt the latter is imply'd to be againſt the former, whoſe Happineſs and Proſperity, I ſo<g ref="char:EOLhyphen"/>lemnly profeſs, none can more ſincerely wiſh for than my ſelf.</p>
+            <p>But if the Bank (preſuming on the Favour and Obligation of the Government to juſtify all their proceedings) are led to the practice of ſuch things as are diametrically oppoſite to the Intereſt and Support of the Nation, and the Ends for which they were eſtabliſhed, and are thereby the chief cauſe of our preſent Hardſhips which we lye under with reſpect to the Coin; and ſince they have the Confidence to vindicate their preſent method of paying, tho' it be far ſhort of what they paid four or five Months agoe, when one tenth part of the new Money was not coined which we have now, and they, perhaps, near ten times as many Notes out againſt them (of which more by and by) I ſay, to be ſilent and ſuffer theſe Practices and Vindica<g ref="char:EOLhyphen"/>tions thereof to paſs without detection, or taking notice thereof, is tacitly to ſit down, and let them
+<pb n="4" facs="tcp:36595:3"/> act at Diſcretion, notwithſtanding they are ſeem<g ref="char:EOLhyphen"/>ingly never ſo far remote in their actings, from Reaſon, Honeſty, and good Conſcience.</p>
+            <p>And truly (in all appearance) 'tis high time there ſhould be a more cloſe Diſquiſition made in<g ref="char:EOLhyphen"/>to their proceedings as to Receipts and Payments; which were the latter good and plauſible, ac<g ref="char:EOLhyphen"/>cording to their Ability, and in due proportion as they pretend, they would, I think, be ſo far from endeavouring to ſcreen and mask the ſame from the Inſpection and Knowledge of the Government, that it ſhould be the firſt thing they do, to give a general ſatisfaction in this matter, which ſeems ſo ſtrange and unaccountable to the moſt part of in<g ref="char:EOLhyphen"/>different or unbyaſs'd Men: And which would they give publick demonſtration of, it would much retrieve their languiſhing Credit, and encourage the Government to compleat the ſame.</p>
+            <p>But I am afraid we ſhall ſee no ſuch thing done voluntarily by them, unleſs it be by order of Par<g ref="char:EOLhyphen"/>liament: No! they think themſelves in the Right, and expreſs a great deal of Spleen and Malice, if you do but in the leaſt call their Proceſs in queſti<g ref="char:EOLhyphen"/>on; tho' at the ſame time, it's plain, that an [<hi>I promiſe to pay,</hi> &amp;c.] is ſcarce more minded than if it were [<hi>I promiſe never to pay,</hi> &amp;c.]</p>
+            <p>To this the Author in his<note n="*" place="margin">The De<g ref="char:EOLhyphen"/>fence of the Banker.</note> Book you demanded my Thoughts of, has been pleaſed to anſwer in their Vindication (one that gets more by them, no doubt, than the generality of People do) and to aſcribe their preſent ſlow Payments;
+<list>
+                  <item>1. <hi>To the alteration of the Coin, and not to any miſmanagement of the Directors.</hi>
+                  </item>
+                  <item>2. <hi>To the Clipt Money, for which the Notes now demanded payment of was given.</hi>
+                  </item>
+                  <pb n="5" facs="tcp:36595:3"/>
+                  <item>3. <hi>To the Method which has been taken to make good the Coines deficiency.</hi> pag. 11.</item>
+               </list>
+            </p>
+            <p>As to his firſt Allegation, That the ſlow Pay<g ref="char:EOLhyphen"/>ments of the Bank, are not owing to the miſma<g ref="char:EOLhyphen"/>nagement of the Directors, I muſt tell him, That I wiſh they are not (in part) owing to their Diſ<g ref="char:EOLhyphen"/>honeſty, in applying the Caſh to wrong purpo<g ref="char:EOLhyphen"/>ſes, <hi>&amp;c.</hi> which ſhould pay their Notes; however, I believe one may ſafely ſay, That the Diſcredit they have made themſelves, and Miſeries they have made the Nation (eſpecially <hi>London</hi>) obnoxi<g ref="char:EOLhyphen"/>ous to, is in a great meaſure owing to their Miſ<g ref="char:EOLhyphen"/>management: For their gain is very conſiderable which they make of mens Money in the Exche<g ref="char:EOLhyphen"/>quer, which they ſhould have anſwered to them ſix Months agoe; but ſince their Loan is ſtill go<g ref="char:EOLhyphen"/>ing on there, and they have made it a Cuſtom to ſatisfy Peoples Demands with little or nothing, they have ſmall reaſon either to be forward in re<g ref="char:EOLhyphen"/>ceiving the ſame out, or in paying it if they had it; which great advantage, had they not long ſince premeditated, but had deſigned to make their Payment, and ſupport the Credit of the Bank by all means poſſible, they would never have been ſo ſtupid, one would think, to take Clipt Money into the Bank (to the very laſt) by Tale, and give their Notes for it payable at demand; for they might have ſeen with half an Eye, That if the Bank receive moſt of the Clipt Money from the Town, and the Exchequer receive it from the Bank, and that this Money is to circulate no longer in that ſpecie, and there is no other to ſup<g ref="char:EOLhyphen"/>ply the deficiency during the new fabrication of this old Money, or (at moſt) nothing but Gold,
+<pb n="6" facs="tcp:36595:4"/> which poſſibly, like a great many other ſelfiſh Heads, they reſolved not to part with, in hopes that want of Caſh appearing, might induce the Parliament to advance the Nominal Value: I ſay, they might eaſily have perceiv'd without the gift of Prophecy, that conſidering the Premiſes they could not anſwer the Demands upon them.</p>
+            <p>
+               <hi>Why are they then blamed for not paying their Notes, ſince it's confeſt it could not be expected from them?</hi>
+            </p>
+            <p>The Anſwer is very eaſie, for tho' by their ill management they had made it unlikely for them to make Payments according to their way of pro<g ref="char:EOLhyphen"/>ceeding, in taking in the Clipt Money and giving Notes for it at demand; yet had they taken none in, but of thoſe that would have taken their Notes for it payable at the end of ſix Months after Date, they would by that time have been able (in all probability) to perform their Promiſes; and tho' by this means they might not have had ſo much Money thrown into their hands, they would however have been no loſers thereby; for by maintaining their Credit in this point, where one perſon laies their Caſh with them now, a hundred would, which would have made them much more gainers than they could be loſers by refuſing the Clipt Money, and have prevented the many miſ<g ref="char:EOLhyphen"/>chiefs come upon the Nation, as well as diſcredit to themſelves, by buying and ſelling their Notes; of which more by and by.</p>
+            <p>
+               <hi>But ſuppoſe, that notwithſtanding they had given their Notes for the Clipt Money, to pay only at the end of ſix Months; and could not then have been able to perform, it would nevertheleſs (ſome may ſay) have been as great a detraction from their Credit,
+<pb n="7" facs="tcp:36595:4"/> as their preſent non-payment is, and themſelves would have been the greater loſers by refuſing to give their Notes for the Clipt Money payable at de<g ref="char:EOLhyphen"/>mand; which had they done, they could but have forfeited their Credit, which they have done not<g ref="char:EOLhyphen"/>withſtanding their Notes were only given to pay at the end of ſix Months?</hi>
+            </p>
+            <p>To this I anſwer, That had they given their Notes for the Clipt Money payable at the end of ſix Months, many would have refuſed laying their Money with them on ſuch terms (and indeed it would have been more Mens Intereſts to have ſold it by weight than to put it in their hands, for I have calculated that the loſs is greater that is oc<g ref="char:EOLhyphen"/>caſioned by the ſlow Payments of the Bank than that of the difference between New and Clipt Mo<g ref="char:EOLhyphen"/>ney) which refuſal would however have made their Debts leſs, and conſequently ſooner paid. Now if it had ſo happened that they could not have anſwered in Caſh the Notes that would have come upon them at the end of ſix Months (which would have been ſtrange, conſidering what great ſumms of new Money would have been thrown into their hands) yet they might (and I think ought in Conſcience to) have paid the greateſt of their Debts in Tallies, that ſo every one might receive his own Money out of the Exchequer, with the Intereſt thereof, from the time of demand, and they could not chooſe (if they had been willing) but they muſt have been able to anſwer all their leſſer Notes in new Mo<g ref="char:EOLhyphen"/>ney and Guineas, which had they done without making any defaulcation, they would not only have reaped the advantages I have mentioned a<g ref="char:EOLhyphen"/>bove, but as a conſequence thereof they would
+<pb n="8" facs="tcp:36595:5"/> have had many thouſands of pounds continued in their hands, which by reaſon of the loſs of Credit was called for out; ſo that as to this particular of Miſmanagement, I'll appeal to all diſintereſſed Perſons, whether their ſlow Payments, and conſe<g ref="char:EOLhyphen"/>quently our Misfortunes in this matter) be not owing thereto.</p>
+            <p n="2">2. The 2d Argument our Author makes uſe of to vindicate the ſlow Payments of the Bank is, <hi>[Will thoſe who ſo impatiently demand payment, be ſatisfy'd to take the ſame ſort of Money their Notes were given for, which was either in Clipt Money or Guineas at an over-value?]</hi>
+            </p>
+            <p>I anſwer, Yes with all their hearts, if the the Bank will allow them the advantage they have made thereof ſince it was demanded, (and they would be gainers thereby, as I have ſhewed be<g ref="char:EOLhyphen"/>fore) rather than be plagued with receiving it as the Bank pleaſes to pay it, 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> of 100 once in three Months, after a day or two's attendance. But what an unreaſonable queſtion is this, for the Notes were given for the then currant Money? (which only is now demanded) and tho' it was Clipt, and the Gold above the now currant value, yet I believe I may appeal to their own Conſciences, if they paid it not into the King's Exchequer at the ſame rate (eſpecially the Silver) they took it from others: And as to the Gold, if they loſt much by it, conſidering how prudently the Parliament lowred the ſame, and how gradually the cur<g ref="char:EOLhyphen"/>rant value became leſs; as from 30 <abbr>
+                  <hi>s.</hi>
+               </abbr> to 29, from 29 to 28, <hi>&amp;c.</hi> till they came to 25 and then to 22 <hi>s.</hi> I ſay, if their loſs was great conſide<g ref="char:EOLhyphen"/>ring this, their Management may yet more juſtly be blamed. But I cannot ſee how they ſhould loſe
+<pb n="9" facs="tcp:36595:5"/> by Guineas; for as I remember, they never took them but under the currant value; nor would they take any, or but few, while the value of them was declining; ſo that if the Ballance of their Ac<g ref="char:EOLhyphen"/>counts of Guineas, (were known) which they re<g ref="char:EOLhyphen"/>ceived and paid from the time of their being eſta<g ref="char:EOLhyphen"/>bliſhed a Bank to the 10th of <hi>April</hi> 1696, when Guineas were not to paſs currant at above 22 <abbr>
+                  <hi>s.</hi>
+               </abbr> I doubt not but they would be found to gain ſome thouſands of Pounds thereby.</p>
+            <p>But ſuppoſe it were as our Author ſays, that they did loſe by Guineas, ſo did many a one, who muſt not therefore make that an Evaſion to avoid paying his Debts, which I doubt not but the Bank might have found a hundred ways to have compaſſed, had they been as good managers for the publick as themſelves. For what though the Money paid into the Bank was clipt, does that make them have one Farthing worth of Tallies leſs? and conſequently, are they a Farthing the poorer? no one can pretend it. Indeed, had the Bank took it by tale and paid it only by weight into the Exchequer, their Plea for their preſent payment had been more reaſonable; but ſince the King took it from them at the rate they receiv'd it from others, I ſee no reaſon why its being clipt ſhould be an Apology for their ſlow Payments, ſince it does not in the leaſt affect them; and truly, if this is one of the beſt Arguments that could be ſuggeſted to our Author for the Bank's delay of payment, I may appeal to any body but them<g ref="char:EOLhyphen"/>ſelves, if it had not been both for the Intereſt of the Bank and Credit of this Author, that it had not been made publick.</p>
+            <pb n="10" facs="tcp:36595:6"/>
+            <p>But this is not the only thing that is an un<g ref="char:EOLhyphen"/>natural conſequence of their giving Notes for the Clipt Money; for our Author (vindicating their preſent method of paying) muſt alſo prove this great Abſurdity, <hi>i. e.</hi> That their giving Notes for Clipt Money is the cauſe why the Bank made bet<g ref="char:EOLhyphen"/>ter payments five Months agoe than now they do, which is a ſtrange Paradox, That ſo long agoe they ſhould be able to pay Ten in the Hundred once a Fortnight, and ſo proportionably, and yet now, when many thouſands of Pounds (that were then out againſt them) are paid off; the quantity of new Money now at leaſt ten times as much as then; and they have called in 40 <hi>per cent.</hi> and borrow'd 20; and yet, I ſay, for all this their Payments are not ſo good now by 9/10 as they were four or five Months agoe!</p>
+            <p>I cannot but admire they ſhould think People ſo ſtupid, as not to take cognizance of this their unaccountable proceeding in a matter of ſo great moment.</p>
+            <p>In truth I cannot eaſily be of the Opinion of ſome, who believe they reſerve their Caſh to buy up their own Notes with, and that for that rea<g ref="char:EOLhyphen"/>ſon they endeavour to keep them at a high rate by faultering more and more in their Payments a<g ref="char:EOLhyphen"/>gainſt all Senſe and Reaſon; no, I cannot think they durſt preſume to abuſe the Nation by any ſuch mercenary and abominable practices.</p>
+            <p>But it remains a ſecret to me and moſt others at preſent (if their Practices be juſt and honourable) how their Payments ſhould be at firſt 10 <hi>per cent.</hi> once a Fortnight, then but 7 or 8 <hi>per cent.</hi> once in a Month, then to give no Notes out by Endorſe<g ref="char:EOLhyphen"/>ment under 5 pounds, afterward none under 20,
+<pb n="11" facs="tcp:36595:6"/> then to pay only according to the Letters of the Alphabet, (and that every Morning) afterward to pay but about 3 or 4 <hi>per cent.</hi> once in three Months, which is the preſent method of paying according to the Letters of the Alphabet two Days in a Week; and truly I cannot well ſee how they can pay leſs if they make any payment at all. Wonderfull Secret! That as the running Caſh of the Nation encreaſeth the Bank ſhould ſo much decreaſe and demurr in anſwering their Notes; and yet how inſolent and boldly do they behave themſelves to ſuch as demand payment: Surely a Grievance like this has rarely been known, and I hope will not long be ſuffer'd, but that the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons will this Seſſion re<g ref="char:EOLhyphen"/>dreſs the ſame.</p>
+            <p n="3">3. The third thing this famous Bank-Champi<g ref="char:EOLhyphen"/>on would fain ſuggeſt in their behalf, is, to throw all the Abuſes and Miſmanagements relating to this matter, on the Parliament; for, ſays he, (pag. 11.) upon Enquiry [<hi>They muſt needs have referred it,</hi> (viz. their ſlow Payments) <hi>to the Re<g ref="char:EOLhyphen"/>gulation of the Coin, and the Method which has been taken to make good its Deficiency.</hi>]</p>
+            <p>Impudent Scribler! that dare call in queſtion the Prudent Meaſures taken by the Parliament a<g ref="char:EOLhyphen"/>bout this Affair.</p>
+            <p>I doubt not, but had the Regulation been re<g ref="char:EOLhyphen"/>ferr'd to the Sagacity of this famous Dictator and his conceited Retinue, they would have appro<g ref="char:EOLhyphen"/>ved themſelves to be wiſe enough (as in the Pay<g ref="char:EOLhyphen"/>ments they make) for their own Intereſt, what<g ref="char:EOLhyphen"/>ever had been the Conſequence, with reſpect to that of the Publick.</p>
+            <pb n="12" facs="tcp:36595:7"/>
+            <p>Truly the Parliament had a difficult piece of work, and had they therein been governed by eve<g ref="char:EOLhyphen"/>ry ſuch ignorant conceited Shatterbrain, as would pretend to adviſe in this matter, our Coin would neither have been ſo good nor plentifull as now it is; but had the excellent Laws they have made been carefully put in practice, ſelf-intereſt laid a<g ref="char:EOLhyphen"/>ſide, and every one had aimed at the good of the Publick as they ought to have done, we ſhould long before this time have ſeen no want of Mony, nor Notes unpaid after demanded.</p>
+            <p>And here I might eaſily incert and vindicate the methods taken (in the ſeveral ſteps thereof) both with reſpect to calling in the Old and coining the New Silver mony, and alſo with relation to the lowring the price of Gold, to confute this ſaucy Aſ<g ref="char:EOLhyphen"/>perſer in this particular; but having already done that in part, in another Treatiſe of Coin, and in<g ref="char:EOLhyphen"/>tending hereafter to examine and give a more di<g ref="char:EOLhyphen"/>ſtinct relation thereof than will be conſiſtent with the deſigned brevity of this ſmall Tract, I ſhall at preſent omit the ſame.</p>
+            <p>In ſhort, it was impoſſible (I think) the Par<g ref="char:EOLhyphen"/>liament could contrive the amending the ſtate of our Coin any better way: For it was not to be expected they could prophecy that lowering the price of Guinea's ſhould induce ſome men ſo foo<g ref="char:EOLhyphen"/>liſhly to hoard them up in hopes that they would this Seſſion advance and alter the Standard which they had but eſtabliſhed the laſt; nor could any but ſome unthinking ſort of people hope for any ſuch diſhonourable as well as unprofitable Statute. And ſetting aſide this ſelfiſh practice, and that of buying and ſelling Bank-Notes (the only two Cau<g ref="char:EOLhyphen"/>ſes of our ſeeming want of Caſh) we ſhould cer<g ref="char:EOLhyphen"/>tainly
+<pb n="13" facs="tcp:36595:7"/> have ſeen the good effects of the Laws made the laſt Seſſion relating to Coin, which would (no doubt) have produced the greateſt plenty of the beſt and moſt beautifull Money that <hi>England</hi> (not to ſay any Country in the World) was ever poſſeſſed of.</p>
+         </div>
+         <div n="2" type="part">
+            <head>PART <hi>II.</hi>
+            </head>
+            <argument>
+               <p>Gives you an account of ſome of the many great miſchiefs and miſeries we lie under, and are obnoxi<g ref="char:EOLhyphen"/>ous to by reaſon of the buying and ſelling Bank-Notes.</p>
+            </argument>
+            <p n="1">1. The buying and ſelling Bank-Notes gives an opportunity to the Bank to buy and ſell their own Notes, whereby they may certainly gain more than by any other way of imploying their Caſh; and which ſhould they doe, we may be ſure they will reſerve to themſelves as much for that purpoſe (and conſequently pay out on their Notes as little) as may be. And if we had an Immence quantity of Caſh, if this practice ſhould be permitted, we ſhould always have a ſeeming deficiency; and whe<g ref="char:EOLhyphen"/>ther they are guilty of ſuch Irregularities I leave it to their own Conſciences, and thoſe concerned, to examine.</p>
+            <p n="2">2. The ſecond miſchief that attends buying and ſelling Bank-Notes is, That it hinders both Mo<g ref="char:EOLhyphen"/>nied men and Inland Traders from paying their juſt Debts in <hi>ſpecie,</hi> though they have it by them in never ſuch plenty; for men are grown ſo ſelf-intereſted, that ſcarce any thing of a Publick Spi<g ref="char:EOLhyphen"/>rit appears; and if this Money-monger can gain 16 or 17 <hi>per Cent.</hi> as ſometimes he may, by con<g ref="char:EOLhyphen"/>verting his Money into Bank-Notes, this he
+<pb n="14" facs="tcp:36595:8"/> knows (if the Bank pay but currantly in a Year) is three times as much advantage to him as he could propoſe to get by diſpoſing of it after the common way of Intereſt; though at the ſame time, the poor, who have dependance on him, are great ſufferers thereby. And as for the Inland Trader (I will not ſay the Merchant, becauſe it may be ſuppoſed that what Money he can ſpare goes to pay his Foreign Bills) his Servants, Workmen, and Creditors of all ſorts muſt take Bank-Notes or be Creditors ſtill, though he probably receives little but New Money or Guinea's, or Silver at 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 2 <hi>
+                  <abbr>d.</abbr> per Ounce</hi> (which is all one) in his Shop or Warehouſe, but theſe are reſerved to go to Mar<g ref="char:EOLhyphen"/>ket with again to buy more Notes, for this is an incouraging Trade, and while it is permitted he'll make his beſt advantage thereof let the Poor, Workman, <hi>&amp;c.</hi> periſh if they will.</p>
+            <p n="3">3. The permiſſion of this practice of buying and ſelling Bank-Notes, gives an opportunity to the Stock-jobbers (eſpecially the Broakers) to raiſe and fall the Credit of the Bank as they pleaſe, and as beſt comports with their poor and baſe, diſingenuous and mercenary tempers; by which the price of theſe Notes are wholly governed. And theſe are the horrid Vipers that have ſet a value of 150 <hi>li.</hi> on that which is not worth 5 <hi>li.</hi> and that made ſuch jobbing work with the Gui<g ref="char:EOLhyphen"/>nea's about ſix months agoe, which as ſoon as the Parliament had quaſhed by lowering them, they found out this method of buying and ſelling Bank-Notes, without whoſe knaviſh inventions merely for their own intereſt, I queſtion whether either Guinea's or Bank-Notes had come near the prices they have been ſold for, if they had been ſold at all.</p>
+            <pb n="15" facs="tcp:36595:8"/>
+            <p>And it is not only the Brokeage which they gain by theſe their deceitfull Projects, for though they had not a peny of Money, yet they are great gainers as well as thoſe that have; by buying (for example) Bank-Notes at 16 or 17 <hi>per Cent.</hi> diſcount, and before the Contract is made and the Money is paid, they can run the diſcount down to 12 or 13, then they ſell theſe Notes and get 5 <hi>per Cent.</hi> clear, diſcharging their former Contract; and thus they go on buying and low<g ref="char:EOLhyphen"/>ring, then ſelling and advancing the price as they pleaſe, till the whole Nation ſuffers, to maintain half a dozen or half a ſcore ſordid cheating Vil<g ref="char:EOLhyphen"/>lains! 'Tis great ſhame they are ſuffered, and that it is not made highly penal for any one to buy or ſell any thing in this nature, unleſs it be Shares in Joint Stocks, as <hi>Hudſons Bay, Eaſt In<g ref="char:EOLhyphen"/>dia, &amp;c.</hi> and even in thoſe, that there ſhould not be many Regulations and Limitations with reſpect to theſe Broakers.</p>
+            <p n="4">4. Another great miſchief attending this prac<g ref="char:EOLhyphen"/>tice of buying and ſelling Bank-Notes is, Oppreſ<g ref="char:EOLhyphen"/>ſion of the poorer ſort of people, who at other times on their Salaries or Employments could live pretty handſomely, but are now reduced to great ſtraits: as for inſtance; A Man that had 60 <hi>li. per Annum</hi> to maintain his Family with, had for<g ref="char:EOLhyphen"/>merly 15 <hi>li. per</hi> Quarter, but being now paid in Bank-Bills (to part with which, as ſome others that trade can, is out of his way) he muſt there<g ref="char:EOLhyphen"/>fore be forced to give, ſuppoſe but 15 <hi>per Cent.</hi> diſcount for Ready money, to buy neceſſaries for his Family, this reduces his 15 <hi>li.</hi> to 12 <hi>li.</hi> 15 <abbr>
+                  <hi>s.</hi>
+               </abbr> and the like loſs is ſuſtained by all Workmen and others that are forced to take Bank-Notes for the
+<pb n="16" facs="tcp:36595:9"/> payment of their Bills or Debts, which is extream hard upon thoſe that had before but juſt enough to ſubſiſt on.</p>
+            <p n="5">5. Another great Miſchief that attends the Buying and Selling Bank-Notes, is, That it en<g ref="char:EOLhyphen"/>courages all Factors to defraud their Principals or Imployers; and this is done inſenſibly, and with<g ref="char:EOLhyphen"/>out any poſſibility of being diſcover'd; for this gives an opportunity to theſe Factors (whoſe Em<g ref="char:EOLhyphen"/>ployers live at a diſtance, and cannot perhaps in<g ref="char:EOLhyphen"/>ſpect their Accounts above four times a Year) to ſell Goods for ready Money; and after they have made 15 <hi>per cent.</hi> profit to themſelves thereby, by converting the ſame into this ſort of Bank-paper, they can by this means, even an Account of 10000<abbr>
+                  <hi>l.</hi>
+               </abbr> with their Principals and get 1500<abbr>
+                  <hi>l.</hi>
+               </abbr> by the bar<g ref="char:EOLhyphen"/>gain, while he that ſtands to all loſſes otherwiſe, has this great abuſe added thereto.</p>
+            <p>I might (Sir) give you many more Inſtances of the diſmal Conſequences that attend a Difference between Notes and Money; as that it deſtroys Pa<g ref="char:EOLhyphen"/>per Credit, by which a great part of the Trade of this Nation was formerly carry'd on, <hi>&amp;c.</hi> but the particulars above are ſufficient to ſhew how neceſſa<g ref="char:EOLhyphen"/>rily this matter ſhould be taken into Conſiderati<g ref="char:EOLhyphen"/>on, and the Abuſes rectify'd; and that I preſume may be done by ſettling a certain Fund of Credit whereby Notes and Bills may be again reſtored, and theſe Cannibals (I have formerly mentioned) that live only upon the Ruine and Deſtruction of their Country-men, may ſee their baſe and wicked Practiſes defeated. But till then I reckon you in the <hi>North</hi> will be much more happy in theſe Matters than we in <hi>London,</hi> becauſe you may in a ſhort time expect to be ſupply'd with new Money
+<pb n="17" facs="tcp:36595:9"/> from the Mints of <hi>York</hi> and <hi>Cheſter,</hi> which no<g ref="char:EOLhyphen"/>thing can hinder but the want of Bullion; and to prevent that, I think it would be Prudence in all the better ſort of People to bring in their Plate rather than want Money to pay juſt Debts, and for other Neceſſaries. Indeed I am of Opinion, we have Money enough in the Nation, if there were care taken that it might circulate, which it would certainly do, if ſome methods were taken to prevent exorbitant uſes thereof by the Stock-jobbers, in buying and ſelling Bank-Notes, <hi>&amp;c.</hi> and the Statute reſtraining Intereſt to 6 <hi>per Cent. per Annum,</hi> 12 <hi>Car.</hi> II. <hi>c.</hi> 13. were ſtrictly put in Execution. <hi>Which that they may, and we live to ſee</hi> England <hi>flouriſh under the auſpicious Govern<g ref="char:EOLhyphen"/>ment of His preſent Majeſty, is that I heartily wiſh for.</hi>
+            </p>
+         </div>
+         <div n="3" type="part">
+            <head>
+               <hi>PART</hi> III.</head>
+            <p>As to your Third Demand (Sir) which was my thoughts, <hi>Whether it would not be a diſadvan<g ref="char:EOLhyphen"/>tage to the Nation, That our broad hammer'd Mo<g ref="char:EOLhyphen"/>ney ſhould paſs currant by Weight?</hi>
+            </p>
+            <p>I anſwer, That it would be an Advantage, provided the Rates for every Ounce are given that are propoſed at preſent in Parliament; and this I ſhall demonſtrate to you by ſhewing,
+<list>
+                  <item>1. <hi>How this advantage will ariſe.</hi>
+                  </item>
+                  <item>2. <hi>By the Diſadvantage to the Nation in general that would attend its paſſing currant by Tale.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The real advantage that attends the Currancy by Weight (as propoſed) will appear, in that
+<pb n="18" facs="tcp:36595:10"/> every one that has it may gain, and no one needs to loſe thereby.</p>
+            <p>For inſtance, Suppoſe the unclipt hammer'd Money currant, or otherwiſe in the Nation be 500000<abbr>
+                  <hi>l.</hi>
+               </abbr> (as 'tis no great matter in this caſe if it be more) and that this hammer'd Money is to be paid to the King by the Nation as One Man for Taxes, <hi>&amp;c.</hi> the Queſtion is, Whether this 500000<abbr>
+                  <hi>l.</hi>
+               </abbr> if paid by weight at 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <hi>
+                  <abbr>d.</abbr> per</hi> Ounce will not exceed the 500000<abbr>
+                  <hi>l.</hi>
+               </abbr> by Tale.</p>
+            <p>I ſay it will, and conſequently, the Nation will be ſo far from loſing (as ſome fancy) that it will gain thereby.</p>
+            <p>For ſuppoſe (as is very rational from what follows) That every Shilling is but 11 <hi>
+                  <abbr>d.</abbr> i. e.</hi> wants a Penny of the value of a new mill'd Shil<g ref="char:EOLhyphen"/>ling; or that the 500000<abbr>
+                  <hi>l.</hi>
+               </abbr> wants 1/12 of the true value of ſo much new Money, this 1/12 of 500000 <abbr>
+                  <hi>l.</hi>
+               </abbr> is 41666 <abbr>
+                  <hi>l.</hi>
+               </abbr> 13 <abbr>
+                  <hi>s.</hi>
+               </abbr> 4<abbr>
+                  <hi>d.</hi>
+               </abbr> which deducted from the 500000 <abbr>
+                  <hi>l.</hi>
+               </abbr> the remainder is 458333 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> which is the worth of the 500000<abbr>
+                  <hi>l.</hi>
+               </abbr> unclipt ham<g ref="char:EOLhyphen"/>mer'd in new mil'd Money; which 458333 <abbr>
+                  <hi>l.</hi>
+               </abbr> 6<abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> at the Standard-rate of 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> weighing 19 <hi>dw.</hi> 8.51612903, <hi>&amp;c.</hi> Grains, will weigh 1774189 Ounces, 4<hi>dw.</hi> 17<hi>gr.</hi> which at 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <hi>
+                  <abbr>d.</abbr> per</hi> Ounce is worth 502686<abbr>
+                  <hi>l.</hi>
+               </abbr> 18<abbr>
+                  <hi>s</hi>
+               </abbr> 10<abbr>
+                  <hi>d.</hi>
+               </abbr> Sterling, which ex<g ref="char:EOLhyphen"/>ceeds the ſuppoſed Summ of 500000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in unclipt hammer'd Money, by 2686<abbr>
+                  <hi>l.</hi>
+               </abbr> 18 <abbr>
+                  <hi>s.</hi>
+               </abbr> 10<abbr>
+                  <hi>d.</hi>
+               </abbr> and which is the Nation's Gain by paſſing it by weight. And yet ſome People that have not well conſider'd this matter, have almoſt as great apprehenſions of hardſhip therein, as if they were to part with their unclipt hammer'd Money for nothing.</p>
+            <p>But here two Objections ariſe, 1. <hi>That the Computation of the Deficiency at</hi> 1<abbr>d.</abbr> per <hi>Shilling is
+<pb n="19" facs="tcp:36595:10"/> too little, and that it will fall ſhort, not only in all Sixpences but in ſome Shillings, which 'tis known want</hi> 2<abbr>d.</abbr>
+            </p>
+            <p>In anſwer to this, I ſay, That if ſome of theſe Shillings want 2 <abbr>
+                  <hi>d.</hi>
+               </abbr> as many are of full weight with new ones, ſo that the mean Arithmetical proportion is 11 <abbr>
+                  <hi>d.</hi>
+               </abbr> as I computed; and whereas Sixpences want more of weight than the Proporti<g ref="char:EOLhyphen"/>on I have allowed for the Shillings, to make up that, I ſay half Crowns and Crowns want much leſs, ſo that the foregoing Computation will how<g ref="char:EOLhyphen"/>ever hold pretty true.</p>
+            <p>Obj. 2. <hi>What ſhall they do that have not Money to lend the King, they muſt needs loſe by paying what they have at</hi> 5 <abbr>s.</abbr> 2 <abbr>d.</abbr> per <hi>Ounce.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> None can loſe much but they that have much by them at the time this Act commenceth, and they that have much will not be much abuſed to loſe 1/12 for the ſake of the many Conveniencies and Advantages that would attend the having only new Money and Guineas currant. But if they are not wanting to themſelves no one needs to loſe, for the King, it's propos'd, will take it at 5<abbr>
+                  <hi>s.</hi>
+               </abbr> 8<abbr>
+                  <hi>d.</hi>
+               </abbr> for Taxes, Loans, Cuſtoms, Exciſe, Stamping Pa<g ref="char:EOLhyphen"/>per, <hi>&amp;c.</hi> And it is but a ſmall part of the Nation that have not occaſion either actually to pay Mo<g ref="char:EOLhyphen"/>ney themſelves on ſome of theſe accounts; as the Nobility, Gentry, and great Traders, for Loans; Merchants for Cuſtoms, Lawyers for ſtamping Pa<g ref="char:EOLhyphen"/>per, Brewers in <hi>London,</hi> and Victuallers in the Coun<g ref="char:EOLhyphen"/>try, for Exciſe, and all Houſe-keepers for Taxes; I ſay, there are few but muſt either pay Money theſe ways, or have Friends that muſt, who not having hammer'd Money of their own, will be willing (ſince 'tis no loſs, and they can ſerve their
+<pb n="20" facs="tcp:36595:11"/> Friend thereby) to pay it for them on theſe ac<g ref="char:EOLhyphen"/>counts. Or, truly it is not unlikely, That thoſe who muſt pay the King Money, and have not ham<g ref="char:EOLhyphen"/>mer'd enough by them, will give 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 4<hi>
+                  <abbr>d.</abbr> per</hi> Ounce for it rather than pay new, ſince they can get 4 <hi>
+                  <abbr>d.</abbr> per</hi> Ounce by the bargain: So that I do not ſee how any one can (notwithſtanding their great fears) avoid gaining by the unclipt hammer'd Money they have in their Hands when the Act paſſeth.</p>
+            <p>But on the other hand, if we conſider the Na<g ref="char:EOLhyphen"/>tional Evils (as things are now circumſtantiated) that would be concomitant of its paſſing currant by Tale, we ſhall find them grievous, according to the general Maxim I have elſewhere mention'd, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>When two ſorts of Coin are currant in the ſame Nation of like value by denomination, but not In<g ref="char:EOLhyphen"/>trinſically, that which has the leaſt value will be currant, and the other (as much as is poſſible) will be hoarded.</hi>
+            </p>
+            <p>So that the more hammer'd Money is currant by tale now we have ſo much better Money, the worſe it will be for us, for ſo much of the new Mill'd Money, and Guineas will certainly be hoarded, which would make us have a more ſeeming want thereof than we have at preſent, and that would be intollerable.</p>
+            <p>And thus (Sir) I have anſwered your Requeſt to the utmoſt of my power in the ſhort time I am con<g ref="char:EOLhyphen"/>fin'd to, to apply my thoughts to theſe Matters, which if uſeful to you or any other (eſpecially the publick) will abundantly recompence the pains and trouble taken in writing thereof, by</p>
+            <closer>
+               <signed>Your Humble Servant.</signed> 
+               <dateline>
+                  <date>
+                     <hi>Nov.</hi> 16. 1696.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:36595:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
